@@ -5,8 +5,8 @@ Aplicação para participar de bolões da Copa do Mundo 2022.
 ## Tecnologia
 
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://nextjs.org/)
-- [Next.js](https://reactjs.org/)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [Fastify](https://www.fastify.io/)
