@@ -11,7 +11,7 @@ Aplicação para participar de bolões da Copa do Mundo 2022.
 - [Expo](https://expo.dev/)
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
-- E muitas outras…
+- E algumas outras…
 
 ## Como executar
 
